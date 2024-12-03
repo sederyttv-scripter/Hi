@@ -13,7 +13,7 @@ local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/sed
 local ui = UILibrary:NewWindow("Example Window")
 ```
 
-# to create a section I don't know to make a tabs
+# to create a tab or section you can use the section for tabs
 ```
 -- Create a section
 local section = UILibrary:NewSection(ui, "TabName")
