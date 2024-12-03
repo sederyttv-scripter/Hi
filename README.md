@@ -43,3 +43,11 @@ UILibrary:CreateDropdown(section, "Select Option", {"Option 1", "Option 2", "Opt
     print("Selected Option:", value)
 end)
 ```
+
+# to create a Slider
+```
+
+UILibrary:CreateSlider(section, "Volume", 0, 100, 50, function(value)
+    print("Slider Value:", value)
+end)
+```
