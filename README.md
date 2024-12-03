@@ -3,7 +3,7 @@
 # To use the ui library you need this
 
 ```lua
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/sederyttv-scripter/SederYttvUiLibrary-/refs/heads/main/Skeder"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/sederyttv-scripter/Hi/refs/heads/main/Seder%20UILibrary"))()
 ```
 
 # To load the UI, (required)
